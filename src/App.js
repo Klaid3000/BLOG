@@ -8,7 +8,7 @@ export const App = () => {
 	return (
 		<Div>
 			<i className="fa fa-paw fa-5x"></i>
-			<div>123</div>
+			<div>456</div>
 		</Div>
 	);
 };
