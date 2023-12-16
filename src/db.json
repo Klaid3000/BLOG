@@ -8,11 +8,18 @@
       "role_id": 0
     },
     {
-      "login": "klaidik",
+      "login": "klaid3",
       "password": "rexa12345",
       "registed_at": "2047-09-16 00:40",
       "role_id": 2,
       "id": "3U1cyUs"
+    },
+    {
+      "login": "klaid2",
+      "password": "rexa12345",
+      "registed_at": "2036-02-25 14:02",
+      "role_id": 2,
+      "id": "GOAuHK7"
     }
   ],
   "roles": [
