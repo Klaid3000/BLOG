@@ -9,16 +9,16 @@ const ButtonContainer = ({ children, className, width, ...props }) => {
 };
 
 export const Button = styled(ButtonContainer)`
-	width: ${({ width = '100%' }) => width};
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	font-size: 18px;
+	width: ${({ width = '100%' }) => width};
 	height: 32px;
 	border: 1px solid #000;
 	background-color: #eee;
 
 	&:hover {
-		cursor: pointer;
+		cursor: ${({ disabled }) => (disabled ? 'default' : 'pointer')};
 	}
 `;
