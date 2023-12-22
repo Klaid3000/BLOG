@@ -1,10 +1,10 @@
 import PropTypes from 'prop-types';
 import { Icon } from '../../../../components';
 import { TableRow } from '../table-row/table-row';
-import styled from 'styled-components';
 import { useServerRequest } from '../../../../hooks';
 import { useState } from 'react';
 import { PROP_TYPE } from '../../../../constants';
+import styled from 'styled-components';
 
 const UserRowContainer = ({
 	className,
