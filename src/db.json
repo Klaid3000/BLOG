@@ -133,6 +133,13 @@
       "published_at": "2054-02-18 20:27",
       "content": "Мой первый комментарий 5\n \n",
       "id": 5
+    },
+    {
+      "author_id": "3U1cyUs",
+      "post_id": "001",
+      "published_at": "2051-03-14 01:49",
+      "content": "Проверка раз раз",
+      "id": 6
     }
   ],
   "sessions": [
